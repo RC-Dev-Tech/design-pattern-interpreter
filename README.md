@@ -29,8 +29,8 @@
 ---
 
 ## URL結構圖
-![](https://drive.google.com/uc?id=1dHF1uts3eMy9aGdnIN7zbBDQVe-jixzL)
-> 圖片來源：[Refactoring.Guru - Iterator](https://refactoring.guru/design-patterns/iterator)
+![](https://drive.google.com/uc?id=1u_M2gZ_QbQjCk0KjDeG2tW0uWUyir-6E)
+> 圖片來源：[Wiki - Interpreter Pattern](https://en.wikipedia.org/wiki/Interpreter_pattern)
 
 ---
 
@@ -53,7 +53,6 @@
 
 ## 參考資料
 * [Wiki - Interpreter Pattern](https://en.wikipedia.org/wiki/Interpreter_pattern) <br>
-* [Refactoring.Guru - Iterator](https://refactoring.guru/design-patterns/iterator) <br>
 
 ---
 
